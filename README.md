@@ -14,5 +14,5 @@ If you find our code is useful in your researches, please consider citing:
   publisher={Springer}
 }
 
-Download the Code and find the main stricpt, run. 
+Download the Code and find the main stricpt, run it. 
 You are welcome to send message to (X.G. Tu) if you have any issue on this code.
