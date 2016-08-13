@@ -11,7 +11,7 @@ If you find our code is useful in your researches, please consider citing:
   author={Tu, Xiaoguang and Gao, Jingjing and Zhu, Chongjing and Cheng, Jie-Zhi and Ma, Zheng and Dai, Xin and Xie, Mei},        
   journal={Medical \& Biological Engineering \& Computing},                                                                     
   pages={1--12},                                                                                                                 
-  year={2016},
+  year={2016},                                                                                                                  
   publisher={Springer}
 }
 ## Installation
