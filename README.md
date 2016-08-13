@@ -6,8 +6,8 @@ Matlab code for Brain Segmentation based on CLIC with total variation (TV), whic
 Xiaoguang Tu, Jingjing Gao, et al.
 ## Citation
 If you find our code is useful in your researches, please consider citing:                                                      
-@article{tu2016mr,
-  title={MR image segmentation and bias field estimation based on coherent local intensity clustering with total variation       regularization},                                                                                                               
+@article{tu2016mr,                                                                                                               
+  title={MR image segmentation and bias field estimation based on coherent local intensity clustering with total variation             regularization},                                                                                                        
   author={Tu, Xiaoguang and Gao, Jingjing and Zhu, Chongjing and Cheng, Jie-Zhi and Ma, Zheng and Dai, Xin and Xie, Mei},        
   journal={Medical \& Biological Engineering \& Computing},                                                                     
   pages={1--12},                                                                                                                 
