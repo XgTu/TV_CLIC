@@ -16,7 +16,7 @@ If you find our code is useful in your researches, please consider citing:
   publisher={Springer}
 }
 ## Installation
-Download and extractthe package, find the main stricpt, then run it. 
+Download and extract the package, find the main stricpt, then run it. 
 
 ## Contact Us
 You are welcome to send message to (X.G. Tu) if you have any issue on this code.                                                
