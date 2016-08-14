@@ -1,7 +1,7 @@
 # TV_CLIC (MR image segmentation and bias field estimation based on coherent local intensity clustering with total variation regularization)
 
 ## Description
-Matlab code for Brain Segmentation based on CLIC with total variation (TV), which corresponds to our paper, "MR image segmentation and bias field estimation based on coherent local intensity clustering with total variation regularization."
+Matlab code for Brain Segmentation based on CLIC with total variation (TV), which corresponds to our paper, "MR image segmentation and bias field estimation based on coherent local intensity clustering with total variation regularization."     Considering that some of our futhre works are based on 3D segmentation of this paper. Here, we only provide the 2D version of this paper. The version of 3D segmentation will be released after relevant work are finished. 
 ## Authors 
 Xiaoguang Tu, Jingjing Gao, et al.
 ## Citation
